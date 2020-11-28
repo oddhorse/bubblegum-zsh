@@ -21,8 +21,6 @@ for my terminal setup i use the following:
 as mentioned earlier, this theme is (very heavily) based on the shell theme used in [Hyper](http://hyper.is/) terminal's promotional materials.
 
 ## license
-copyright (C) 2020 bear
-
-released under the GNU Affero General Public License v3
-
-see [LICENSE](LICENSE) for details
+copyright (c) 2020 bear.
+released under the GNU Affero General Public License v3.
+see [LICENSE](LICENSE) for details.
